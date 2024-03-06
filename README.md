@@ -12,6 +12,7 @@ How to use the function
 
 When the plugin is successfully installed, you see the item 'Manual SIFT mask' under 'Tools'.
 ![001.jpg](images/001.jpg)
+<img src="images/001.jpg" width="300" height="400">
 
 Load a dataset with pre-computed dDTF results, then launch this plugin. Press 'Import SIFT data' button and you see the butterfly plot of time-averaged dDTF08 from all graph edges.
 ![002.jpg](images/002.jpg)
