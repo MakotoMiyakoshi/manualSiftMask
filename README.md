@@ -35,7 +35,7 @@ Now you apply the selection by pressing the button 'Apply the mask and quit'. Th
 
 Now you open 'Brain Movie 3D' from EEGLAB menu. Note that we are NOT going to generate a movie. The data we use here is a resting. We will show a time averaged, stationary representation.
 
-<img src="images/005.jpg" width="600" height="600">
+<img src="images/005.jpg">
 
 Now you set visualization parameters.
 (Top) 'ConnectivityMethod', 'dDTF08'
