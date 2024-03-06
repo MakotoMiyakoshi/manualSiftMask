@@ -41,7 +41,7 @@ Now you set visualization parameters.
 (Top) 'ConnectivityMethod', 'dDTF08'
 (3rd item) 'FrequenciesToCollapse', 4: This is because we saw our results show a peak at 4 Hz.
 
-<img src="images/006.jpg" width="600" height="600">
+<img src="images/006.jpg">
 
 Continued... you should scroll down to see more items.
 (middle) 'NodeSizeLimits', [0.1 0.5]
@@ -49,7 +49,7 @@ Continued... you should scroll down to see more items.
 (one below) 'EdgeSizeLimits', [0.1 0.5]
 (one below) 'EdgeColorLimits', [0.5 1]
 
-<img src="images/007.jpg" width="600" height="600">
+<img src="images/007.jpg">
 
 Here is the default output at 4 Hz. Completely saturated and not usable. By the way, this is a 19 x 19 connectivity grid.
 
