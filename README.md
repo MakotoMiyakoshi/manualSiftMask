@@ -1,4 +1,6 @@
 # manualSiftMask()
+[Source Information Flow Toolbox (SIFT)](https://github.com/sccn/SIFT)
+
 
 Designed to
 =================================
