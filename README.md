@@ -1,6 +1,5 @@
 # manualSiftMask()
-[Source Information Flow Toolbox (SIFT)](https://github.com/sccn/SIFT) by [Tim Mullen](https://intheon.io/team) is a nice tool to perform post-ICA effective connectivity analysis. Here, I suggest one approach to use it for resting state EEG. I recommend you calculate direct directed transfer function (dDTF08) [(Korzeniewska et al., 2008)](https://pubmed.ncbi.nlm.nih.gov/17712784/)
-
+[Source Information Flow Toolbox (SIFT)](https://github.com/sccn/SIFT) by [Tim Mullen](https://intheon.io/team) is a nice tool to perform post-ICA effective connectivity analysis. Here, I suggest one approach to use it for resting state EEG. I recommend we choose direct directed transfer function (dDTF08) [(Korzeniewska et al., 2008)](https://pubmed.ncbi.nlm.nih.gov/17712784/) as a metric of the effective connectivity.
 
 Designed to
 =================================
@@ -52,7 +51,7 @@ Continued... you should scroll down to see more items.
 
 <img src="images/007.jpg">
 
-Here is the default output at 4 Hz. Completely saturated and not usable. By the way, this is a 19 x 19 connectivity grid.
+When these parameters are set up, Here is the default output at 4 Hz. Completely saturated and not usable. By the way, this is a 19 x 19 connectivity grid.
 
 <img src="images/008.jpg" width="600" height="600">
 
