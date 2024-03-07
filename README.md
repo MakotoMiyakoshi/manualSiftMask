@@ -51,7 +51,7 @@ Continued... you should scroll down to see more items.
 
 <img src="images/007.jpg">
 
-When these parameters are set up, Here is the default output at 4 Hz. Completely saturated and not usable. By the way, this is a 19 x 19 connectivity grid.
+When you enter these custom parameters, **DO NOT press the 'Make Movie!' button.** Instead, **move the slider below 'select a time point to image'**. Because the original time(-frequency) series data are replaced with an average values that repeats for the same length, selecting any time point shows the same image. Every time you adjust parameters, **move the slider to any different position** to re-plot the image. Here is the default output at 4 Hz. Completely saturated and not usable. By the way, this is a 19 x 19 connectivity grid.
 
 <img src="images/008.jpg" width="600" height="600">
 
